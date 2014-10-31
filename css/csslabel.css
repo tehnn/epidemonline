@@ -1,0 +1,66 @@
+.labelBlue {
+    color:blue;
+    background-color: transparent;
+    font-family: Tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: left;
+    text-shadow:1px 1px 1px white;
+    border: 0px solid black;
+    white-space: nowrap;
+}
+.labelBlack {
+    color:black;
+    background-color: transparent;
+    font-family: Tahoma;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    text-shadow:1px 1px 1px white;
+    border: 0px solid black;
+    white-space: nowrap;
+}
+.labelSteelBlue {
+    color:SteelBlue;
+    background-color: transparent;
+    font-family: Tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: left;
+    text-shadow:1px 1px 1px white;
+    border: 0px solid black;
+    white-space: nowrap;
+}
+.labelOrange {
+    color:orangered;
+    background-color: transparent;
+    font-family: Tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: left;
+    text-shadow:1px 1px 1px white;
+    border: 0px solid black;
+    white-space: nowrap;
+}
+.labelWhite {
+    color:white;
+    background-color: transparent;
+    font-family: Tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: left;
+    border: 0px solid white;
+    white-space: nowrap;
+    text-shadow:1px 0px 1px black;
+}
+.labelGreen {
+    color:darkgreen;
+    background-color: transparent;
+    font-family: Tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: left;
+    border: 0px solid white;
+    white-space: nowrap;
+    text-shadow:1px 0px 1px white;
+}

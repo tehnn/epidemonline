@@ -1,0 +1,21 @@
+.mypanel {
+   
+}
+.mypanel .mypanel-heading {   
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14pt;
+    font-weight: bold
+}
+
+.mypanel .mypanel-body{
+    padding: 10px;
+}
+.mypanel {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+
