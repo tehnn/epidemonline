@@ -20,7 +20,7 @@ $this->menu = array(
 <div class="mypanel" style=" border:1px solid #0094ff;">
     <div class="mypanel-heading" style="background:#0094ff;color:white;" > 
     <?php   
-         echo $model->name." (".$model->disease." - ".$dname->disease.")";
+         echo "[".$model->relate2chospcode->hospname."]  ".$model->name." (".$model->disease." - ".$dname->disease.")";
     ?>
     </div>
     <div class="mypanel-body">       
