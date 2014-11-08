@@ -7,7 +7,7 @@
   ));
  */
 ?>
-<br>
+<div style="margin-top: 2px">
 <form method="POST">
 
     <?php //echo $form->errorSummary($model); ?>
@@ -282,7 +282,7 @@
 
 
     </div>
-    <div class="form-actions">
+    <div class="form-actions" style="margin-top: 2px">
         <?php
         $this->widget('bootstrap.widgets.TbButton', array(
             'buttonType' => 'submit',
@@ -302,4 +302,5 @@
     </div>
 
 </form>
+</div>
 
